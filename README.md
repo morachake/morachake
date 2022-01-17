@@ -1,8 +1,8 @@
 ### <h2>(jacob-d242)🙏🏻, I'm jacob Moracha!
   </br>
 
-<!-- <img align="left"  src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Jacob Moracha" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/> -->
+<img align="left"  src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Jacob Moracha" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
 - 🔭 I’m currently more into the **Programming**
@@ -50,7 +50,7 @@ npx jacob-d242
   <a href="https://www.dev.to/nitishawasthi" alt="dev.to"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/download.png" height="30" width="30"></a>
   <a href="https://fosstodon.org/@nitishawasthi" alt="mastodon"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1200px-Mastodon_Logotype_(Simple).svg.png" height="30" width="30"></a>
   <a href="https://codechef.com/anitish_225" alt="Codechef"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="30" width="30"></a> -->
-    <a href="mailto:jacobmoracha@gmail.com" alt="Contact me"><img src="https://github.com/blob/master/gmail-512.webp" height="30" width="30"></a>
+<!--     <a href="mailto:jacobmoracha@gmail.com" alt="Contact me"><img src="https://github.com/blob/master/gmail-512.webp" height="30" width="30"></a> -->
 <!--     <a href="https://nitishawasthi.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a> -->
 <!--   </p> -->
 
