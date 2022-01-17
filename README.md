@@ -44,8 +44,8 @@ npx jacob-d242
   <p align="center">
     <a href="https://twitter.com/MorachaKe" alt="Twitter"><img src="https://www.google.com/search?q=twitter&sxsrf=AOaemvKroDBy7McKnVPaNyPU8CDKM6n60A:1642440244599&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjO_9_aprn1AhW1EWMBHahEDKAQ_AUoAXoECAIQAw&biw=1366&bih=663&dpr=1#imgrc=y_6Z3dmjEp2YHM" height="30" width="30"></a>     
     
-    <a href="https://www.linkedin.com/in/jacob Moracha/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-  <a href="https://www.facebook.com/jacobs.ezekiel" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
+<!--     <a href="https://www.linkedin.com/in/jacob Moracha/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+  <a href="https://www.facebook.com/jacobs.ezekiel" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a> -->
 <!--   <a href="https://www.instagram.com/meenitish" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
   <a href="https://www.dev.to/nitishawasthi" alt="dev.to"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/download.png" height="30" width="30"></a>
   <a href="https://fosstodon.org/@nitishawasthi" alt="mastodon"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1200px-Mastodon_Logotype_(Simple).svg.png" height="30" width="30"></a>
