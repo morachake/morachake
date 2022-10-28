@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm jacob Moracha Ezekiel</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-
-
-
 - 🔭 I’m currently working on [omart kenya](omart.co.ke)
-
-- 🌱 I’m currently learning **web3**
-
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 📝 I regularly write articles on [https://medium.com/@jacobmoracha](https://medium.com/@jacobmoracha)
