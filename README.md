@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm jacob Moracha Ezekiel</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
-- 🔭 I’m currently working on [omart kenya](omart.co.ke)
-- 👯 I’m looking to collaborate on **open source projects**
+<h3 align="center">A  frontend developer </h3>
+<h3> 🔭 I’m currently Building on <a href="https://omart.co.ke"> Omart </a></h3>
 
-- 📝 I regularly write articles on [https://medium.com/@jacobmoracha](https://medium.com/@jacobmoracha)
+<p>📝 I regularly write articles on <a href="https://hashnode.com/@Moracha"> Hashnode </a> and <a href="https://medium.com/@jacobmoracha"> Medium </a></p>
+<p>
+📫 How to reach me **jacobmoracha@gmail.com**
+</p>
+<p>
+ 📄 Know about my experiences  <a href="https://app.flowcv.io/resume-feedback/yCnVVcsrDR45Prys5k37G"> Resume </a>
+</p>
 
-- 💬 Ask me about **React**
+# 💻 My Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	
+<!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
-- 📫 How to reach me **jacobmoracha@gmail.com**
-
-- 📄 Know about my experiences [https://app.flowcv.io/resume-feedback/yCnVVcsrDR45Prys5k37G](https://app.flowcv.io/resume-feedback/yCnVVcsrDR45Prys5k37G)
-
-- ⚡ Fun fact **I love Music**
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@mjke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mjke" height="30" width="40" /></a>
@@ -22,8 +24,7 @@
 <a href="https://medium.com/@jacobmoracha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jacobmoracha" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacob-d242&show_icons=true&locale=en&layout=compact" alt="jacob-d242" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jacob-d242&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jacob-d242&theme=radical&hide_border=false)<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacob-d242&show_icons=true&locale=en" alt="jacob-d242" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacob-d242&" alt="jacob-d242" /></p>
