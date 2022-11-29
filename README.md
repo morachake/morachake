@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jacob Moracha Ezekiel</h1>
-<h3 align="center">A  frontend developer </h3>
+<h3 align="center">A  developer </h3>
 <h3> 🔭 I’m currently Building on <a href="https://omart.co.ke"> Omart </a></h3>
 
 <p>📝 I regularly write articles on <a href="https://hashnode.com/@Moracha"> Hashnode </a> and <a href="https://medium.com/@jacobmoracha"> Medium </a></p>
