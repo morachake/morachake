@@ -9,7 +9,7 @@ Web And Mobile Developer
 * ✉️  You can contact me at [jacobmoracha@gmail.com](mailto:jacobmoracha@gmail.com)
 * 🚀  I'm currently working on [OmartKenya](http://omart.co.ke)
 * 🧠  I'm learning Kotlin
-* 🤝  I'm open to collaborating on Int resting &Opensource Projects
+* 🤝  I'm open to collaborating on Intresting &Opensource Projects
 * ⚡  I love Watching Movies
 
 <a href="https://www.github.com/jacob-d242" target="_blank" rel="noreferrer"><img
