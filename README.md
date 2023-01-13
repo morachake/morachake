@@ -52,10 +52,11 @@ src="https://img.shields.io/twitter/follow/MorachaKe?logo=twitter&style=for-the-
 ### Badges
 
 <b>My GitHub Stats</b>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacob-d242&show_icons=true&locale=en" alt="jacob-d242" /></p>
 
-<a  href="http://www.github.com/jacob-d242"><img src="https://github-readme-stats.vercel.app/api?username=jacob-d242&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=14532d&hide_border=true&show_icons=true" alt="jacob-d242's GitHub stats" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacob-d242&show_icons=true&locale=en&layout=compact" alt="jacob-d242" /></p>
 
-<a href="http://www.github.com/jacob-d242"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jacob-d242&stroke=ffffff&background=14532d&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p href="http://www.github.com/jacob-d242"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacob-d242&stroke=ffffff&background=14532d&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></p>
 
 <a href="http://www.github.com/jacob-d242"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jacob-d242&bg_color=14532d&color=ffffff&line=ec4899&point=ffffff&area_color=14532d&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
@@ -66,9 +67,5 @@ src="https://img.shields.io/twitter/follow/MorachaKe?logo=twitter&style=for-the-
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacob-d242&show_icons=true&locale=en&layout=compact" alt="jacob-d242" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacob-d242&show_icons=true&locale=en" alt="jacob-d242" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacob-d242&" alt="jacob-d242" /></p>
 
