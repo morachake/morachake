@@ -63,7 +63,9 @@ src="https://img.shields.io/twitter/follow/MorachaKe?logo=twitter&style=for-the-
 <a  href="http://www.github.com/jacob-d242" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-d242&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=14532d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
