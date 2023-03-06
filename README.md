@@ -14,8 +14,8 @@ Hi, my name is Jacob Moracha and I am a web and mobile developer with expertise 
 * 🤝  I'm open to collaborating on Intresting &Opensource Projects
 * ⚡  I love Watching Movies
 
-<a href="https://www.github.com/jacob-d242" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jacob-d242?logo=github&style=for-the-badge&color=ec4899&labelColor=14532d" /></a><a href="https://www.twitter.com/MorachaKe" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/MorachaKe" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MorachaKe?logo=github&style=for-the-badge&color=ec4899&labelColor=14532d" /></a><a href="https://www.twitter.com/MorachaKe" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MorachaKe?logo=twitter&style=for-the-badge&color=ec4899&labelColor=14532d"
 /></a>
 
@@ -52,15 +52,15 @@ src="https://img.shields.io/twitter/follow/MorachaKe?logo=twitter&style=for-the-
 ### Badges
 
 <b>My GitHub Stats</b>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacob-d242&show_icons=true&locale=en" alt="jacob-d242" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MorachaKe&show_icons=true&locale=en" alt="jacob-d242" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacob-d242&show_icons=true&locale=en&layout=compact" alt="jacob-d242" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MorachaKe&show_icons=true&locale=en&layout=compact" alt="jacob-d242" /></p>
 
-<p href="http://www.github.com/jacob-d242"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacob-d242&stroke=ffffff&background=14532d&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></p>
+<p href="http://www.github.com/MorachaKe"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MorachaKe&stroke=ffffff&background=14532d&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></p>
 
-<a href="http://www.github.com/jacob-d242"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jacob-d242&bg_color=14532d&color=ffffff&line=ec4899&point=ffffff&area_color=14532d&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/MorachaKe"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MorachaKe&bg_color=14532d&color=ffffff&line=ec4899&point=ffffff&area_color=14532d&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a  href="http://www.github.com/jacob-d242" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-d242&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=14532d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a  href="http://www.github.com/MorachaKe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorachaKe&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=14532d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 ## Hashnode Blog Post
