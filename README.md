@@ -56,7 +56,7 @@ src="https://img.shields.io/twitter/follow/jacob-d242?logo=twitter&style=for-the
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacob-d242&show_icons=true&locale=en&layout=compact" alt="jacob-d242" /></p>
 
-<p href="http://www.github.com/MorachaKe"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacob-d242&stroke=ffffff&background=14532d&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></p>
+<!-- <p href="http://www.github.com/MorachaKe"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacob-d242&stroke=ffffff&background=14532d&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></p> -->
 
 <a href="http://www.github.com/MorachaKe"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jacob-d242&bg_color=14532d&color=ffffff&line=ec4899&point=ffffff&area_color=14532d&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
