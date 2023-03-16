@@ -10,7 +10,7 @@ Hi, my name is Jacob Moracha and I am a web and mobile developer with expertise 
 * 🖥️  See my portfolio at [MyPortfolio](http://moracha.netlify.app)
 * ✉️  You can contact me at [jacobmoracha@gmail.com](mailto:jacobmoracha@gmail.com)
 * 🚀  I'm currently working on [OmartKenya](http://omart.co.ke)
-* 🧠  I'm learning Kotlin
+* 🧠  I'm learning Go
 * 🤝  I'm open to collaborating on Intresting &Opensource Projects
 * ⚡  I love Watching Movies
 
