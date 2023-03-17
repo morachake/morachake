@@ -16,7 +16,7 @@ Hi, my name is Jacob Moracha and I am a web and mobile developer with expertise 
 
 <a href="https://www.github.com/jacob-d242" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jacob-d242?logo=github&style=for-the-badge&color=ec4899&labelColor=14532d" /></a><a href="https://www.twitter.com/jacob-d242" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/jacob-d242?logo=twitter&style=for-the-badge&color=ec4899&labelColor=14532d"
+src="https://img.shields.io/twitter/follow/@morachake?logo=twitter&style=for-the-badge&color=ec4899&labelColor=14532d"
 /></a>
 
 ### Skills
