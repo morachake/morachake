@@ -10,9 +10,9 @@ Hi, my name is Jacob Moracha and I am a web and mobile developer with expertise 
 * 🖥️  See my portfolio at [MyPortfolio](http://moracha.netlify.app)
 * ✉️  You can contact me at [jacobmoracha@gmail.com](mailto:jacobmoracha@gmail.com)
 * 🚀  I'm currently working on [OmartKenya](http://omart.co.ke)
-* 🧠  I'm learning Go
+* 🧠  I'm learning Go 
 * 🤝  I'm open to collaborating on Intresting &Opensource Projects
-* ⚡  I love Watching Movies
+* ⚡ 
 
 <a href="https://www.github.com/jacob-d242" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jacob-d242?logo=github&style=for-the-badge&color=ec4899&labelColor=14532d" /></a><a href="https://www.twitter.com/jacob-d242" target="_blank" rel="noreferrer"><img
