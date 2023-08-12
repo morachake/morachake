@@ -11,8 +11,7 @@ Hi, my name is Jacob Moracha, and I am a web and mobile developer with expertise
 * ✉️  You can contact me at [jacobmoracha@gmail.com](mailto:jacobmoracha@gmail.com)
 * 🚀  I'm currently working on [OmartKenya](http://omart.co.ke)
 * 🧠  I'm learning Kotlin
-* 🤝  I'm open to collaborating on interesting &Opensource Projects
-* ⚡ 
+* 🤝  I'm open to collaborating on interesting and open-source projects.
 
 <a href="https://www.github.com/jacob-d242" target="_blank">
   <img src="https://img.shields.io/github/followers/jacob-d242" alt="Jacob Moracha's GitHub followers" />
