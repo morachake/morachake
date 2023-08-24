@@ -18,12 +18,13 @@ Web And Mobile Developer
   <img src="https://profile-counter.glitch.me/jacob-d242/count.svg" />
 </p>
 <p align="center">
-<a href="https://mobile.twitter.com/rojas__eth?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://mobile.twitter.com/rojas__eth?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rodgers-omondi-308b42148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodgers-omondi-308b42148/" height="30" width="40" /></a>
+<a href="https://twitter.com/MorachaKe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/MorachaKe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jacob-moracha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                                                                      alt="https://www.linkedin.com/in/jacob-moracha/" height="30" width="40" /></a>
 </p>
 
 
-<h2 align="center"> My Github Stats && Technologies I use:</h2>
+<h2 align="center"> My Github Stats and Technologies I use: /h2>
 
 <table>
   <tr>
