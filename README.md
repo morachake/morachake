@@ -21,22 +21,13 @@ Web And Mobile Developer
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jacob-d242/count.svg" />
 </p>
-### Skills
+
 **<h3 align="center">Connect with me: <p>
 <a href="https://mobile.twitter.com/rojas__eth?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://mobile.twitter.com/rojas__eth?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rodgers-omondi-308b42148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodgers-omondi-308b42148/" height="30" width="40" /></a>
 </p>
 </h3>**
 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-
-</p>
-
-
-### Socials
 <h2 align="center"> My Github Stats && Technologies I use:</h2>
 
 <table>
