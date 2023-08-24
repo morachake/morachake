@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web And Mobile Developer
 ------------------------
 
-Hi, my name is Jacob Moracha, and I am a web and mobile developer with expertise in React and React Native. I am passionate about building intuitive and user-friendly applications that provide a seamless user experience. I am constantly learning and staying updated with the latest technologies and best practices in the field. I take pride in delivering high-quality projects on time and to specifications. In my free time, I enjoy exploring new ways to push the boundaries of what is possible with code. Thank you for considering me for your next project.
+<p align="center">Hi, my name is Jacob Moracha, and I am a web and mobile developer with expertise in React and React Native. I am passionate about building intuitive and user-friendly applications that provide a seamless user experience. I am constantly learning and staying updated with the latest technologies and best practices in the field. I take pride in delivering high-quality projects on time and to specifications. In my free time, I enjoy exploring new ways to push the boundaries of what is possible with code. Thank you for considering me for your next project.</p>>
 
-* 🌍  I'm based in Mombasa, Kenya
-* 🖥️  See my portfolio at [MyPortfolio](http://moracha.netlify.app)
-* ✉️  You can contact me at [jacobmoracha@gmail.com](mailto:jacobmoracha@gmail.com)
-* 🚀  I'm currently working on [OmartKenya](http://omart.co.ke)
-* 🧠  I'm learning Kotlin
-* 🤝  I'm open to collaborating on interesting and open-source projects.
+<h3 align="center">* 🌍  I'm based in Mombasa, Kenya</h3>
+<h3 align="center">* 🖥️  See my portfolio at [MyPortfolio](http://moracha.netlify.app)</h3>
+<h3 align="center">* ✉️  You can contact me at [jacobmoracha@gmail.com](mailto:jacobmoracha@gmail.com)</h3>
+<h3 align="center">* 🚀  I'm currently working on [OmartKenya](http://omart.co.ke)</h3>
+<h3 align="center">* 🧠  I'm learning Kotlin
+<h3 align="center">* 🤝  I'm open to collaborating on interesting and open-source projects.</h3>
 
 <a href="https://www.github.com/jacob-d242" target="_blank">
   <img src="https://img.shields.io/github/followers/jacob-d242" alt="Jacob Moracha's GitHub followers" />
