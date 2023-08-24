@@ -20,7 +20,10 @@ Hi, my name is Jacob Moracha, and I am a web and mobile developer with expertise
   <img src="https://img.shields.io/twitter/follow/@morachake" alt="Jacob Moracha's Twitter followers" />
 </a>
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jacob-d242/count.svg" />
+</p>
 ### Skills
 
 
