@@ -9,6 +9,8 @@ Web And Mobile Developer
 <h3 align="center"> 🌍  I'm based in Mombasa, Kenya.
 <h3 align="center"> ✉️  You can contact me at [jacobmoracha@gmail.com](mailto:jacobmoracha@gmail.com)</h3>
 <h3 align="center"> 🚀  I'm currently working on [OmartKenya](http://omart.co.ke)</h3>
+  <p>You can contact me at <a href="mailto:jacobmoracha@gmail.com">my email address</a>.</p>
+
 <h3 align="center"> 🧠  I'm learning Kotlin</h3>
 <h3 align="center"> 🤝  I'm open to collaborating on interesting open-source projects.</h3>
 
