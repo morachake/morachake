@@ -5,12 +5,8 @@ Web And Mobile Developer
 ------------------------
 
 <p align="center">Hi, my name is Jacob Moracha, and I am a web and mobile developer with expertise in React and React Native. I am passionate about building intuitive and user-friendly applications that provide a seamless user experience. I am constantly learning and staying updated with the latest technologies and best practices in the field. I take pride in delivering high-quality projects on time and to specifications. In my free time, I enjoy exploring new ways to push the boundaries of what is possible with code. Thank you for considering me for your next project.</p>
-
-<h3 align="center"> 🌍  I'm based in Mombasa, Kenya.
-<h3 align="center"> ✉️  You can contact me at [jacobmoracha@gmail.com](mailto:jacobmoracha@gmail.com)</h3>
-<h3 align="center"> 🚀  I'm currently working on [OmartKenya](http://omart.co.ke)</h3>
-  <p>You can contact me at <a href="mailto:jacobmoracha@gmail.com">my email address</a>.</p>
-
+<h3 align="center"> ✉️  You can contact me at <a href="mailto:jacobmoracha@gmail.com">here</a> </h3>
+<h3 align="center"> 🚀  I'm currently working on <a href="http://zufu.co.ke">Zufu Kenya</a></h3>
 <h3 align="center"> 🧠  I'm learning Kotlin</h3>
 <h3 align="center"> 🤝  I'm open to collaborating on interesting open-source projects.</h3>
 
