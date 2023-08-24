@@ -1,6 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jacob Moracha
-Web And Mobile Developer</h2>
-<h2 align="center">------------------------</h2>
 <p align="center">Hi, my name is Jacob Moracha, and I am a web and mobile developer with expertise in React and React Native. I am passionate about building intuitive and user-friendly applications that provide a seamless user experience. I am constantly learning and staying updated with the latest technologies and best practices in the field. I take pride in delivering high-quality projects on time and to specifications. In my free time, I enjoy exploring new ways to push the boundaries of what is possible with code. Thank you for considering me for your next project.</p>
 <h3 align="center"> ✉️  You can contact me at <a href="mailto:jacobmoracha@gmail.com">here</a> </h3>
 <h3 align="center"> 🚀  I'm currently working on <a href="http://zufu.co.ke">Zufu Kenya</a></h3>
