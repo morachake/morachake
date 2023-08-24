@@ -11,6 +11,9 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jacob-d242/count.svg" />
 </p>
+<div align="center">
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+</div>
 <p align="center">
 <a href="https://twitter.com/MorachaKe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/MorachaKe" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jacob-moracha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
