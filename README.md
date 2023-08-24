@@ -17,7 +17,7 @@ Web And Mobile Developer
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jacob-d242/count.svg" />
 </p>
-
+<p align="center">
 <a href="https://mobile.twitter.com/rojas__eth?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://mobile.twitter.com/rojas__eth?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rodgers-omondi-308b42148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodgers-omondi-308b42148/" height="30" width="40" /></a>
 </p>
