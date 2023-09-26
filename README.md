@@ -8,7 +8,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jacob-d242/count.svg" />
+  <img src="https://profile-counter.glitch.me/morachake/count.svg" />
 </p>
 <div align="center">
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
@@ -16,7 +16,7 @@
 <p align="center">
 <a href="https://twitter.com/MorachaKe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/MorachaKe" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jacob-moracha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                                                                      alt="https://www.linkedin.com/in/jacob-moracha/" height="30" width="40" /></a>
+                                                                      alt="https://www.linkedin.com/in/morachake-moracha/" height="30" width="40" /></a>
 </p>
 
 
@@ -25,14 +25,14 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/jacob-d242"><img alt="Moracha' Github Stats" src="https://github-readme-stats.vercel.app/api?username=jacob-d242&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
+      <a href="https://github.com/morachake"><img alt="Moracha' Github Stats" src="https://github-readme-stats.vercel.app/api?username=morachake&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
     </td>
     <td>
-       <a href="http://www.github.com/jacob-d242"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jacob-d242&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+       <a href="http://www.github.com/morachake"><img src="https://github-readme-streak-stats.herokuapp.com/?user=morachake&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
     </td>
     <td>
-      <a align="center" href="https://github.com/jacob-d242"><img alt="Moracha' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-d242&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+      <a align="center" href="https://github.com/morachake"><img alt="Moracha' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morachake&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   <tr>
   <tr>
