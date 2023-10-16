@@ -170,11 +170,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Serverless Computing](https://moracha.hashnode.dev/serverless-computing)
 - [Supabase edge functions](https://moracha.hashnode.dev/supabase-edge-functions)
 - [Cloud Computing](https://moracha.hashnode.dev/cloud-computing)
 - [A guide on Supabase](https://moracha.hashnode.dev/a-guide-on-supabase)
 - [Dev Retro 2022:Another Year, Another Set of Unsurmountable Obstacles](https://moracha.hashnode.dev/dev-retro-2022another-year-another-set-of-unsurmountable-obstacles)
-- [How to use Vite to create your React Application](https://moracha.hashnode.dev/how-to-use-vite-to-create-your-react-application)
 <!-- HASHNODE:END -->
 
 
