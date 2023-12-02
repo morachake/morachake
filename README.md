@@ -62,14 +62,14 @@
     </td>
   </tr>
   <tr>
-    <td>            
+<!--     <td>            
       <p align="center">
         <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
       </a>
         <p align="center">NextJS</p>
       </p>
-    </td>
+    </td> -->
     <td>
       <p align="center">
         <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
